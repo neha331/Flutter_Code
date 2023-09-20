@@ -1,0 +1,12 @@
+void main(){
+  var num=-10;
+  if(num>0){
+    print("$num is positive number");
+  }
+  else if(num<0){
+    print("$num is negative number");
+  }
+  else{
+    print("$num is neither positive nor negative");
+  }
+}
